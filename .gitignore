@@ -154,6 +154,18 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# data 
+data/
+
+# Models (add this)
+model/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pb
+
 # mypy
 .mypy_cache/
 .dmypy.json

@@ -1,0 +1,15 @@
+# Collaborative Filtering Libraries
+scikit-surprise==1.1.4
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Explainability Libraries
+lime==0.2.0.1
+shap==0.44.1
+
+# Additional useful libraries
+matplotlib==3.8.2
+seaborn==0.13.0
+jupyter==1.0.0
